@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana批量生图",
+  "description": "基于 Gemini 2.5 Flash Image 的高性能批量生图工具。支持批量生成、参考图控制和一键打包下载。",
+  "requestFramePermissions": []
+}
